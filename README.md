@@ -1,2 +1,2 @@
 # TODO-Using-JS
-Making a todo app using java script
+Making a Small app using java script
